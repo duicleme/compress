@@ -3,11 +3,11 @@ It is used zip wbenny when  test sample code
 
 It is used Visual Studio 2022  .
 
-wbenny used ...  zip compress decompress ..
 
 
-compress.zip 
-decompress.zip  
+you have to decompress a source.zip file to source directory . when rebuilding ..
+
+
 
 
 
