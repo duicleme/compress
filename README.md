@@ -6,8 +6,9 @@ It is used Visual Studio 2022  .
 wbenny used ...  zip compress decompress ..
 
 
-compress.zip      < Independant 
-decompress.zip    <
+compress.zip 
+decompress.zip  
+
 
 
 source and proejct . etc .
